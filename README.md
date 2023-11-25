@@ -1,3 +1,14 @@
+# Table of Contnets
+1. Description
+2. Installation
+3. Usage
+4. Further Improvements
+5. Support
+6. Roadmap
+7. Authors
+8. Acknowledgements
+9. License
+
 # LanguageHUB
 
 LanguageHUB is a Python program created by IE Students that allows you to translate script and .docx documents to more than 30 different languages without needing internet. 
